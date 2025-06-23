@@ -1,3 +1,6 @@
+效果图片
+![image](https://github.com/user-attachments/assets/826a6119-77ba-404b-9b84-c4e0684f435c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
