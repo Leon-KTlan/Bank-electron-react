@@ -1,5 +1,8 @@
-效果图片
-![image](https://github.com/user-attachments/assets/826a6119-77ba-404b-9b84-c4e0684f435c)
+-Bank-electron-react-
+![8e0e70465ca20f23d3495de5bf03e0a](https://github.com/user-attachments/assets/751dd34d-1ef2-4cdc-9247-4c3f4893f065)
+![2eb09d0245b21243050d88b2f7b7445](https://github.com/user-attachments/assets/09d82e91-ce5b-449a-96c5-89ab84a204c4)
+![6190174ebdd11d941e4c6810db73ef0](https://github.com/user-attachments/assets/f368b5b2-7a8b-4cfd-a9d0-0bffdace477e)
+![a94ce4a681b25ba9e068221c32c8021](https://github.com/user-attachments/assets/02563bfd-7577-48f6-b77e-6a54173957cc)
 
 # Getting Started with Create React App
 
